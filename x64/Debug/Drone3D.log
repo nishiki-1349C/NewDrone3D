@@ -1,3 +1,6 @@
-﻿  Renderer3D.cpp
-C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Renderer3D.cpp(183,51): warning C4267: '引数': 'size_t' から 'GLsizei' に変換しました。データが失われているかもしれません。
+﻿  Camera.cpp
+  Renderer3D.cpp
+C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Renderer3D.cpp(191,45): warning C4267: '引数': 'size_t' から 'GLsizei' に変換しました。データが失われているかもしれません。
+  main.cpp
+  コードを生成中...
   Drone3D.vcxproj -> C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\x64\Debug\Drone3D.exe
