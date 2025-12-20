@@ -1,10 +1,2 @@
-﻿  Actor.cpp
-  Camera.cpp
-  Environment.cpp
-  LineRenderer.cpp
-  MainDrone.cpp
-  Object.cpp
-  Renderer3D.cpp
-  main.cpp
-  コードを生成中...
+﻿  Renderer3D.cpp
   Drone3D.vcxproj -> C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\x64\Debug\Drone3D.exe
