@@ -1,8 +1,10 @@
+C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Actor.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Actor.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Camera.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Camera.obj
+C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Environment.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Environment.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\LineRenderer.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\LineRenderer.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\main.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\main.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\MainDrone.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\MainDrone.obj
-C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\StaticObject.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\StaticObject.obj
+C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Object.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Object.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Renderer3D.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Renderer3D.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\src\glad.c;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\glad.obj
 C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Vector3.cpp;C:\Users\nishi\OneDrive\デスクトップ\Code\Drone3D\Drone3D\x64\Debug\Vector3.obj
