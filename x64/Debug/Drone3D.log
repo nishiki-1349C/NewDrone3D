@@ -1,9 +1,7 @@
 ﻿  Actor.cpp
   Camera.cpp
-  Environment.cpp
   LineRenderer.cpp
   MainDrone.cpp
-  Object.cpp
   Renderer3D.cpp
   main.cpp
   コードを生成中...
