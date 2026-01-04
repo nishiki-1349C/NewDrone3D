@@ -1,7 +1,8 @@
 C:\Code\Drone3D\Actor.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Actor.obj
+C:\Code\Drone3D\CalcVector.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\CalcVector.obj
 C:\Code\Drone3D\Camera.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Camera.obj
 C:\Code\Drone3D\Environment.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Environment.obj
-C:\Code\Drone3D\GameMgr.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\GameMgr.obj
+C:\Code\Drone3D\FadeInOut.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\FadeInOut.obj
 C:\Code\Drone3D\LineRenderer.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\LineRenderer.obj
 C:\Code\Drone3D\main.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\main.obj
 C:\Code\Drone3D\MainDrone.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\MainDrone.obj

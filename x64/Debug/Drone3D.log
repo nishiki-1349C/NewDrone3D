@@ -1,3 +1,13 @@
-﻿  GameMgr.cpp
+﻿  Actor.cpp
+  CalcVector.cpp
+  Camera.cpp
+  Environment.cpp
+  FadeInOut.cpp
+  main.cpp
+  MainDrone.cpp
+  Object.cpp
+  Renderer3D.cpp
+  GLFWWrap.cpp
+  コードを生成中...
 LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
   Drone3D.vcxproj -> C:\Code\Drone3D\x64\Debug\Drone3D.exe
