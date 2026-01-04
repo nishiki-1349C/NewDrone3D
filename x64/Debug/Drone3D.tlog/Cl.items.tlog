@@ -9,5 +9,6 @@ C:\Code\Drone3D\MainDrone.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\MainDrone.obj
 C:\Code\Drone3D\Object.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Object.obj
 C:\Code\Drone3D\Renderer3D.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Renderer3D.obj
 C:\Code\Drone3D\src\glad.c;C:\Code\Drone3D\Drone3D\x64\Debug\glad.obj
+C:\Code\Drone3D\TimeMgr.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\TimeMgr.obj
 C:\Code\Drone3D\Vector3.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\Vector3.obj
 C:\Code\Drone3D\GLFWWrap.cpp;C:\Code\Drone3D\Drone3D\x64\Debug\GLFWWrap.obj
