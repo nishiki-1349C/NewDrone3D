@@ -1,11 +1,2 @@
-﻿  Actor.cpp
-  Camera.cpp
-  Environment.cpp
-  FadeInOut.cpp
-  main.cpp
-  MainDrone.cpp
-  Object.cpp
-  Renderer3D.cpp
-  GLFWWrap.cpp
-  コードを生成中...
+﻿  StageMgr.cpp
   Drone3D.vcxproj -> C:\Code\Drone3D\x64\Debug\Drone3D.exe
