@@ -1,6 +1,2 @@
-﻿  CalcVector.cpp
-  Renderer3D.cpp
-  Vector3.cpp
-  コードを生成中...
-LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+﻿  main.cpp
   Drone3D.vcxproj -> C:\Code\Drone3D\x64\Debug\Drone3D.exe
