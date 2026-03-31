@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Code\Drone3D\main.cpp(145,16): warning C4930: 'LineRenderer spherer(void)': プロトタイプされている関数が呼び出されませんでした (変数の定義が意図されていますか?)
   Drone3D.vcxproj -> C:\Code\Drone3D\x64\Debug\Drone3D.exe
